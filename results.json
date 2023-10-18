@@ -1,0 +1,12 @@
+[
+    {
+        "message": "Tóm tắt bài báo sau và nhận xét tích cực hay tiêu cực theo định dạng json (summary, sentiment, explanation): https://dantri.com.vn/the-thao/bao-han-quoc-binh-luan-khi-doi-nha-thang-dam-tuyen-viet-nam-20231018005655602.htm",
+        "response_status_code": 200,
+        "response_text": "{\"assistant_response\":\"{\"summary\": \"Bài báo đưa tin về bình luận tích cực từ một báo ở Hàn Quốc sau khi đội tuyển Việt Nam giành chiến thắng trước đội tuyển Syria. Bức thư này ca ngợi tinh thần và quyết tâm của đội tuyển Việt Nam, khen ngợi thành tựu quan trọng của họ.\", \"sentiment\": \"tích cực\", \"explanation\": \"Bài báo đề cập đến bình luận tích cực từ một báo ở Hàn Quốc về đội tuyển Việt Nam sau chiến thắng trước đội tuyển Syria. Bức thư này hoan nghênh tinh thần và quyết tâm của đội tuyển Việt Nam, nhận xét rằng chiến thắng này là một thành tựu quan trọng.\"}\"}\n"
+    },
+    {
+        "message": "Tóm tắt bài báo sau và nhận xét tích cực hay tiêu cực theo định dạng json (summary, sentiment, explanation): https://dantri.com.vn/xa-hoi/bien-dong-sap-hung-bao-huong-vao-mien-bac-20231017224018307.htm",
+        "response_status_code": 200,
+        "response_text": "{\"assistant_response\":\"{\"summary\": \"Bài báo đưa tin về tình hình biển Đông và những diễn biến tiềm ẩn ảnh hưởng đến miền Bắc Việt Nam. Bức thư này nhấn mạnh tình hình căng thẳng ở Biển Đông và nguy cơ xâm nhập mặn vào miền Bắc Việt Nam, ảnh hưởng đến nguồn nước ngọt trong khu vực.\", \"sentiment\": \"tiêu cực\", \"explanation\": \"Bài báo đưa ra thông tin về tình hình căng thẳng và nguy cơ xâm nhập mặn từ Biển Đông vào miền Bắc Việt Nam. Bức thư nhấn mạnh rằng tình hình này có thể ảnh hưởng tiêu cực đến nguồn nước ngọt trong khu vực. Do đó, bài báo mang tính chất tiêu cực và gây lo ngại về tương lai của miền Bắc Việt Nam.\"}\"}\n"
+    }
+]

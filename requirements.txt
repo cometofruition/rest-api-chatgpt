@@ -1,0 +1,10 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+openai
+textblob
+flask
+requests
+litestar

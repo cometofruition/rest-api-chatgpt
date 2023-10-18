@@ -1,0 +1,2 @@
+Tóm tắt bài báo sau và nhận xét tích cực hay tiêu cực theo định dạng json (summary, sentiment, explanation): https://dantri.com.vn/xa-hoi/bien-dong-sap-hung-bao-huong-vao-mien-bac-20231017224018307.htm
+Tóm tắt bài báo sau và nhận xét tích cực hay tiêu cực theo định dạng json (summary, sentiment, explanation): https://dantri.com.vn/the-thao/bao-han-quoc-binh-luan-khi-doi-nha-thang-dam-tuyen-viet-nam-20231018005655602.htm
